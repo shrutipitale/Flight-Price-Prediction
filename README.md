@@ -1,4 +1,4 @@
-# Flight-Price-Prediction
+# Flight-Price-Analysis
 Embarking on a data voyage, we explore flight price dynamics. Through EDA, we unveil patterns, time trends, and route influences. Data guide your travel plans.
 
 ***Install the import python libraries***
@@ -23,4 +23,4 @@ Embarking on a data voyage, we explore flight price dynamics. Through EDA, we un
 ```bash
      pip install seaborn
 ```
-***Download the dataset of Flight-Price-Prediction***
+***Download the dataset of Flight-Price-Analysis***
